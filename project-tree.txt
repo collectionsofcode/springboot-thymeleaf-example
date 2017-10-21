@@ -1,0 +1,27 @@
+springboot-thymeleaf-example/
+├── pom.xml
+├── project-tree.txt
+└── src
+    ├── main
+    │   ├── java
+    │   │   └── com
+    │   │       └── collectionsofcode
+    │   │           └── springboot
+    │   │               └── thymeleaf
+    │   │                   ├── Application.java
+    │   │                   └── controller
+    │   │                       └── HomeController.java
+    │   ├── resources
+    │   │   ├── application.yml
+    │   │   └── templates
+    │   │       └── home.html
+    │   └── webapp
+    │       └── WEB-INF
+    │           ├── jboss-deployment-structure.xml
+    │           └── jboss-web.xml
+    └── test
+        └── java
+            └── com
+                └── collectionsofcode
+
+16 directories, 8 files
